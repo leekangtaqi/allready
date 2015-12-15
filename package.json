@@ -1,0 +1,8 @@
+{
+  "name": "allready",
+  "version": "0.0.1",
+  "author": "Rick Lee",
+  "devDependencies": {
+    "chai": "*"
+  }
+}
